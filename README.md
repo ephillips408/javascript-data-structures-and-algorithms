@@ -1,1 +1,1 @@
-These files were created while following along with Colt Steele's datastrutures and algorithms course on Udemy.
+These files were created while following along with Colt Steele's data strutures and algorithms course on Udemy.
